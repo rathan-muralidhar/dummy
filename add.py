@@ -1,5 +1,6 @@
 def fun(a,b):
     return a+b
+    
 """
 git init - initializes a new repository
 git status - provides cur. status (Which files are added / not)

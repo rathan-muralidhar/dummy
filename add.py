@@ -1,6 +1,9 @@
 def add(a,b):
     c = a+b
     return c
+def sub(a,b):
+    c = a-b
+    return c
 """
 git init - initializes a new repository
 git status - provides cur. status (Which files are added / not)
